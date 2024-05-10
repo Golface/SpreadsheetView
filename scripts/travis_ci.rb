@@ -3,7 +3,7 @@
 class Binder 
   # You can confrim new device via `xcrun xctrace list devices`
   def latest_os
-    '14.0'
+    '17.0'
   end
 
   def devices
